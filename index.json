@@ -1,0 +1,19 @@
+{
+  "name": "Expensify",
+  "description": "Expensify is a business system used to manage expenses, transactions and money matters through its real-time data and reporting processes",
+  "triggers": [],
+  "actions": [
+    "/v1/policy_creator",
+    "/v1/policy_list_getter",
+    "/v1/report_creator",
+    "/v1/report_exporter",
+    "/v1/expense_rules_creator"
+  ],
+  "version": 1,
+  "auth_type": "custom",
+  "docs_link": "http://docs.example.com",
+  "appId": "e7d4a071-d339-4b0d-88f2-0b6bf2ef9109",
+  "guid": "e890a23b-6036-4e3e-8085-aca4d40ccf37",
+  "connectionUid": "expensify_1582524662444",
+  "lookup": true
+}
