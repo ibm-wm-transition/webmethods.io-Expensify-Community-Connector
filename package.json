@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Expensify is a business system used to manage expenses, transactions and money matters through its real-time data and reporting processes",
   "dependencies": {
-    "request": "2.55.0",
+    "request": "2.88.2",
     "@webmethodsio/cli-sdk": "*"
   }
 }
